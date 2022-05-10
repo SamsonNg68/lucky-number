@@ -1,3 +1,3 @@
 # lucky-number
 
-![](lucky-number.png)
+![](luckynumber.png)
